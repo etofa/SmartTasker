@@ -1,6 +1,6 @@
 # SmartTasker - Modern Task Management App
 
-![SmartTasker Screenshot](https://your-image-link.com/smarttasker-demo.png)  
+![SmartTasker  
 *A clean, intuitive, and responsive task management app with dark mode support.*
 
 ---
@@ -35,14 +35,10 @@ Designed with simplicity and usability in mind, SmartTasker adapts seamlessly to
 
 ## 📦 Getting Started
 
-### Prerequisites
-
-Make sure [Node.js](https://nodejs.org/) is installed on your machine.
-
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/smarttasker.git
+git clone https://github.com/etofa/smarttasker.git
 cd smarttasker
 npm install
 npm start
